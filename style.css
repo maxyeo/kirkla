@@ -679,6 +679,7 @@ body {
     color: #fff;
     text-align: center;
     transition: transform .5s;
+    -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
 }
 
@@ -692,9 +693,9 @@ body {
 }
 
 #front {
-    background-color: #7d9fea;
+    background-color: #99B6F2;
     transform: rotateY(0deg);
-    /*transition: transform 0s;*/
+    transition: transform 0s;
 }
 
 #front.toreverse {
@@ -703,9 +704,9 @@ body {
 }
 
 #back {
-    background-color: #ff5cd4;
+    background-color: #D982A2;
     transform: rotateY(180deg);
-    /*transition: transform 0s;*/
+    transition: transform 0s;
 }
 
 #back.toreverse {
@@ -719,5 +720,16 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
+    padding: 20px;
     max-width: 500px;
+}
+
+#front-flip,
+#back-flip {
+    display: inline-block;
+}
+
+#front-flip.end,
+#back-flip.end {
+    display: none;
 }
