@@ -670,6 +670,13 @@ body {
     overflow: hidden;
 }
 
+#list {
+    overflow: auto;
+}
+.list-item {
+    padding: 100px 0;
+}
+
 .card {
     position: absolute;
     top: 50px;
@@ -693,7 +700,8 @@ body {
 }
 
 #front {
-    background-color: #99B6F2;
+    background: #99B6F2;
+    background-size: cover;
     transform: rotateY(0deg);
     transition: transform 0s;
 }
@@ -704,7 +712,7 @@ body {
 }
 
 #back {
-    background-color: #D982A2;
+    background: #D982A2;
     transform: rotateY(180deg);
     transition: transform 0s;
 }
