@@ -114,23 +114,33 @@ msgs = [{
 	message: "Happy birthday! You're almost halfway to 50! It's been a pleasure learning and dancing with you. Thanks for letting m̶e̶ ̶p̶l̶a̶y̶ ̶l̶e̶a̶g̶u̶e̶ ̶w̶i̶t̶h̶ ̶y̶o̶u̶  support you and being so chill. Hope you have a wonderful day! ",
 	background: "#4B61A6"
 }, {
-	name: "Mark",
-	roast: "You belong in gold just as much as my shoulder belongs in its socket.",
-	message: "You're a good friend dude. I enjoy being gay with you. Let's continue being gay with each other. Thanks for pushing me to be a better person. Gay boy. One day you'll beat me in chess for sure.",
+	name: "David Lee",
+	roast: "",
+	message: "Happy Birthday my dude! Another year older, but another year wiser! 2020 has definitely been rocky and it's birthday year to remember, but hope you're able to make the most of it brotha. Appreciate you and we'll reunite when we get through this!",
 	background: "#3FB2BF"
+}, {
+	name: "Allan",
+	roast: "kirkadoodledoo, if i had a dollar for every time you've been tilted while playing league, i'd be able to give you all skins so that you'd be tilted more but in style.",
+	message: "but thank you for being such a true friend. i sometimes feel i dont really deserve the friendship because I don't really know how to give back. I always hope you're doing well and appreciate you for your great person and charisma. you'll go far and I can't wait to see the day where i can go to people on the streets and be \"yeah i know him hes ight\"",
+	background: "#A7A289"
 }, {
 	name: "Paul",
 	roast: "",
 	message: "Happy birthday Kirk!! You’ve been such a great friend for years and I’m grateful to have amazing friends like you! It’s been great hanging during these crazy times and having one of the homies around to hang and game with. Hope the mamba year is a good one and one where we keep being tight!",
-	background: "#A7A289"
+	background: "#99B6F2"
+}, {
+	name: "Mark",
+	roast: "You belong in gold just as much as my shoulder belongs in its socket.",
+	message: "You're a good friend dude. I enjoy being gay with you. Let's continue being gay with each other. Thanks for pushing me to be a better person. Gay boy. One day you'll beat me in chess for sure.",
+	background: "#D982A2"
 }, {
 	name: "Helen",
 	roast: "I still sometimes think about the story you told me when you fake twisted your ankle...I'm very glad that I did not know you when you were in college.",
 	message: "Happy birthday big boy! Glad to be celebrating another of your birthday with you. Hope you feel very loved on this special day reading the roasts and heartfelt messages of your friends and family and can't wait to celebrate more important life events with you!",
-	background: "#99B6F2"
+	background: "#4B61A6"
 }, {
 	name: "Helen, Max, Mark, Kenny",
 	roast: "Gift Contributors",
 	message: "Allan Chin, Joy Li, Jane Kuang, Sarah Yoon, Valeree Catangay, Anne Choi, Nic Liang, Alex Chang, Amy Cha, Marisa Liang, Jonathan Ting, David Lee, Jaye Sosa, Suhaas Garre, Shirley Pan, Clara Park, Julian Straker, Kevin Tran, Jennifer Zhang",
-	background: "#D982A2"
+	background: "#3FB2BF"
 }];

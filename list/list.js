@@ -12,6 +12,7 @@ while (counter < msgs.length) {
 	listItem.appendChild(roast);
 	listItem.appendChild(message);
 	listItem.appendChild(author);
+	listItem.style.background = msgs[counter].background;
 	document.getElementById("list").appendChild(listItem);
 	counter++;
 }
