@@ -119,6 +119,61 @@ msgs = [{
 	message: "Happy Birthday my dude! Another year older, but another year wiser! 2020 has definitely been rocky and it's birthday year to remember, but hope you're able to make the most of it brotha. Appreciate you and we'll reunite when we get through this!",
 	background: "#3FB2BF"
 }, {
+	name: "Yeric",
+	roast: "Uhmmmm your chinese sucks.",
+	message: "Yoooooooo kirk, happy day of birth! Its been two years since we met in berkeley. Thanks for welcoming me into bdc and summer tl! You are just too cool for me. I rmb seeing you crossing the street while marking near esh on my first day in berkeley for summer tl audition and i didnt know who you were at that time and i was like wow that fkboi dancer must be pretty good at dancing with his fanny pack and shirt tucked in. And then i saw you teaching at aud and i was like ah that makes sense haha. Just first few moments in berkeley and that memory stays in my head forever lol. But after that i wish i had more interactions with you but you were involved with synergy a lot so i understand. But thanks for still saying hi around berkeley and being one of the first few friends i found in berkeley. Once again, i appreciate you were born on this day! Ps. Actually Your chinese isnt even that bad lol. ",
+	background: "#A7A289"
+}, {
+	name: "Jefe",
+	roast: "Remember that one time I went up behind you during practice and you thought I was Helen and proceeded to say \"Helen stop~\" in front of Helen and the rest of the team? :)))) good times LMAO",
+	message: "Hey dude! I'm bad at insults but at least there's embarrassing moments LOL - HAPPY 24TH YO!! Thank you for being my friend all these years, honestly so amazing to see how much things have changed since we were baby vice execs/interns :') I'm glad we've been able to stay connected throughout and also appreciate how much you've always sought to give back and do more towards your passions and be so influential on the people around you ^^ also how you always jump right to the tea and seem to be able to extract it from literally any living being around you HAHA I'll never not be amazed at that.  <br> Anyways let's hang out once all this pandemic stuff blows over! Sad we can't get drinks or anything but we can always save that for another time xD ",
+	background: "#99B6F2"
+}, {
+	name: "Stella",
+	roast: "ur dumb ahahaha jk... unless? (jk I’m not good at roasting dont put this in or you can omg )",
+	message: "happy birthday kirk!!!!!! thanks for being such an inspiring personality to me and everyone else around you 😊",
+	background: "#D982A2"
+}, {
+	name: "Raymond Tan",
+	roast: "Can’t think of a good roast but your fisherman’s best already did it.",
+	message: "Happy Birthday Kirk! Thanks for being a cool and funny mentor in my dance journey. Idk if I ever told you this but I remember my first time dancing and going to AFXsi audition in 2017, I think you were vice exec or something. I just thought you looked really cool doing the choreography and I looked to you as an example. I was so happy when I got onto 7ds cause You’d be one of my directors! Sometimes your jokes need a little work but I’ll laugh anyways. Have a great one !",
+	background: "#4B61A6"
+}, {
+	name: "Christy Le",
+	roast: "I first met u when u made that couple choreo for crossroads LMAO MY OLD FAV MEMORY and also the lifeguard video too, some good quality I hope max includes some good pics in ur compilation LOL",
+	message: "HAPPY BIRTHDAY THANG KIRK Oh how you have surprised me in so many ways. From dancing with you, living with you and playing stupid league, I’ll regret saying this but I’m glad to have met someone annoying like you LMAO. Thanks for initiating our first and last hang out at fire wings HAHAH got to actually learn more about u as a person and you actually really care despite ur stupid antics LMAO. Thanks for always being the joke of the show while also being the jerk/softie of synergy. Ur a crazy dancer and a super hard worker cause bro wtf how do u fs like that man. Keep doin u man and don’t forget to invite me to ur wedding yah HAHAHAH nguoi Vietnam 4ever",
+	background: "#3FB2BF"
+}, {
+	name: "Joy",
+	roast: "Your jokes are just as funny as much as you hate firewings ",
+	message: "Happy birthday!!! It was nice having you as a housemate for the past 7ish months lol. Here’s to watching more non-PC movies and eating firewings together and (maybe playing TFM but just maybe)🍻",
+	background: "#A7A289"
+}, {
+	name: "cheryl",
+	roast: "hairband twinsies 5evr!!!!~~~ ♡ ",
+	message: "apologies: i dont know how to roast AT ALL, so instead, i opted to describe what i perceive to be one of the recent defining characteristics of our relationship : ) you were already a visible personality within the dance community, so i had initially held myself cautiously and would never be comfortable enough to talk you. as a result, my first most distinctive memory i associate with you was definitely when you were my coord during summer tl. im very grateful for those memories and for the chance to level my thoughts and actually get to know you as a person! i definitely can't say that we're best friends attached at the hip, but you definitely turned out to be a reliable figure in my life whose leadership qualities i really looked up to. to be honest, there are occasionally times where i still do not know how to respond to your humor or how to joke with you HAHA but it has never felt awkward, and those are the moments i find most endearing. your presence in my life is always something i appreciate. i hope that work and everything else in your life have been and will continue to be fulfilling for you. i miss you and hap day of birth!!!! please self care and dedicate some time for yourself just to enjoy life :> ",
+	background: "#A7A289"
+}, {
+	name: "Michael Chen",
+	roast: "I can't roast the roast master",
+	message: "Happy birthday bro! Glad that we've gotten to share some great dance moments together since joining Synergy. Really admire your work ethic and honestly your jokes are super hilarious haha. Hope that we all can hang out together soon. Here's to your Kobe year!",
+	background: "#A7A289"
+}, {
+	name: "Nic Laing",
+	roast: "Remember that time at 7DS banquet when you and Max arrived and Max went around saying hello to everyone and you took it upon yourself to squint your eyes real small, scrunch your nose real tight, and in a obviously mocking voice go around saying “OH YES HELLOOO... IT GOOD TO SEE YOU... HEYYYY....” 😒😒😒 Sarah and I looked at each other super confused LOL I still feel that way",
+	message: "Happy birthday Kirk!!! Really glad we were able to meet and bond through 7DS and everything since then. You have the most unique effect on a crowd and your presence alone is enough to turn a team from awkward to energetic, like when you taught Distractions to T6! By just being who you are and making a genuine effort to spend one on one time with the people around you, you consistently shape us into better people. I been watching a lot of the show “The Good Place” recently, and the premise of the show is that every action in you take has a net positive or negative effect on the world, which can be summarized by a final positive or negative score. So thinking like that, by my count, you ought to be somewhere around +99999999 points because everything you say or do is always good intentioned and is for the betterment of the people you care about. We notice this, and we appreciate this. Happy birthday!",
+	background: "#A7A289"
+}, {
+	name: "Michelle Yoshimoto",
+	roast: "",
+	message: "Hullo kirkorilla! Happy birthday dude :) Hope you have an amazing day today and have a blast reading through this roast cookbook haha 😅 I'm glad we met in r2c2 in my first year of opto school and so appreciative that we kept in touch since! I look forward to our catch up/food hangouts :) thanks for putting up with me and my jokes LOL take care and hope to see you soon when I'm back in berk!",
+	background: "#A7A289"
+}, {
+	name: "Vincent Tantra",
+	roast: "Thanks for teaching me top lane even though I'm pretty sure you're a bottom!",
+	message: "Happy birthday! Hope you have an amazing time and I'll promise I'll find my way back to League if you don't roast me too hard TT You honestly have so many things going for you that make you amazing dude and I look up to you a lot, so I hope you have an amazing 24th year of being alive and adulthood. Have a good one!",
+	background: "#A7A289"
+}, {
 	name: "Allan",
 	roast: "kirkadoodledoo, if i had a dollar for every time you've been tilted while playing league, i'd be able to give you all skins so that you'd be tilted more but in style.",
 	message: "but thank you for being such a true friend. i sometimes feel i dont really deserve the friendship because I don't really know how to give back. I always hope you're doing well and appreciate you for your great person and charisma. you'll go far and I can't wait to see the day where i can go to people on the streets and be \"yeah i know him hes ight\"",
@@ -141,6 +196,6 @@ msgs = [{
 }, {
 	name: "Helen, Max, Mark, Kenny",
 	roast: "Gift Contributors",
-	message: "Allan Chin, Joy Li, Jane Kuang, Sarah Yoon, Valeree Catangay, Anne Choi, Nic Liang, Alex Chang, Amy Cha, Marisa Liang, Jonathan Ting, David Lee, Jaye Sosa, Suhaas Garre, Shirley Pan, Clara Park, Julian Straker, Kevin Tran, Jennifer Zhang",
+	message: "Allan Chin, Joy Li, Jane Kuang, Sarah Yoon, Valeree Catangay, Anne Choi, Nic Liang, Alex Chang, Amy Cha, Marisa Liang, Jonathan Ting, David Lee, Jaye Sosa, Suhaas Garre, Shirley Pan, Clara Park, Julian Straker, Kevin Tran, Jennifer Zhang, Jeffrey Wang, Jared Shao, Vincent Tantra",
 	background: "#3FB2BF"
 }];
