@@ -152,22 +152,22 @@ msgs = [{
 	name: "cheryl",
 	roast: "hairband twinsies 5evr!!!!~~~ ♡ ",
 	message: "apologies: i dont know how to roast AT ALL, so instead, i opted to describe what i perceive to be one of the recent defining characteristics of our relationship : ) you were already a visible personality within the dance community, so i had initially held myself cautiously and would never be comfortable enough to talk you. as a result, my first most distinctive memory i associate with you was definitely when you were my coord during summer tl. im very grateful for those memories and for the chance to level my thoughts and actually get to know you as a person! i definitely can't say that we're best friends attached at the hip, but you definitely turned out to be a reliable figure in my life whose leadership qualities i really looked up to. to be honest, there are occasionally times where i still do not know how to respond to your humor or how to joke with you HAHA but it has never felt awkward, and those are the moments i find most endearing. your presence in my life is always something i appreciate. i hope that work and everything else in your life have been and will continue to be fulfilling for you. i miss you and hap day of birth!!!! please self care and dedicate some time for yourself just to enjoy life :> ",
-	background: "#A7A289"
+	background: "#99B6F2"
 }, {
 	name: "Michael Chen",
 	roast: "I can't roast the roast master",
 	message: "Happy birthday bro! Glad that we've gotten to share some great dance moments together since joining Synergy. Really admire your work ethic and honestly your jokes are super hilarious haha. Hope that we all can hang out together soon. Here's to your Kobe year!",
-	background: "#A7A289"
+	background: "#D982A2"
 }, {
 	name: "Nic Laing",
 	roast: "Remember that time at 7DS banquet when you and Max arrived and Max went around saying hello to everyone and you took it upon yourself to squint your eyes real small, scrunch your nose real tight, and in a obviously mocking voice go around saying “OH YES HELLOOO... IT GOOD TO SEE YOU... HEYYYY....” 😒😒😒 Sarah and I looked at each other super confused LOL I still feel that way",
 	message: "Happy birthday Kirk!!! Really glad we were able to meet and bond through 7DS and everything since then. You have the most unique effect on a crowd and your presence alone is enough to turn a team from awkward to energetic, like when you taught Distractions to T6! By just being who you are and making a genuine effort to spend one on one time with the people around you, you consistently shape us into better people. I been watching a lot of the show “The Good Place” recently, and the premise of the show is that every action in you take has a net positive or negative effect on the world, which can be summarized by a final positive or negative score. So thinking like that, by my count, you ought to be somewhere around +99999999 points because everything you say or do is always good intentioned and is for the betterment of the people you care about. We notice this, and we appreciate this. Happy birthday!",
-	background: "#A7A289"
+	background: "#4B61A6"
 }, {
 	name: "Michelle Yoshimoto",
 	roast: "",
 	message: "Hullo kirkorilla! Happy birthday dude :) Hope you have an amazing day today and have a blast reading through this roast cookbook haha 😅 I'm glad we met in r2c2 in my first year of opto school and so appreciative that we kept in touch since! I look forward to our catch up/food hangouts :) thanks for putting up with me and my jokes LOL take care and hope to see you soon when I'm back in berk!",
-	background: "#A7A289"
+	background: "#3FB2BF"
 }, {
 	name: "Vincent Tantra",
 	roast: "Thanks for teaching me top lane even though I'm pretty sure you're a bottom!",
@@ -177,25 +177,25 @@ msgs = [{
 	name: "Allan",
 	roast: "kirkadoodledoo, if i had a dollar for every time you've been tilted while playing league, i'd be able to give you all skins so that you'd be tilted more but in style.",
 	message: "but thank you for being such a true friend. i sometimes feel i dont really deserve the friendship because I don't really know how to give back. I always hope you're doing well and appreciate you for your great person and charisma. you'll go far and I can't wait to see the day where i can go to people on the streets and be \"yeah i know him hes ight\"",
-	background: "#A7A289"
+	background: "#99B6F2"
 }, {
 	name: "Paul",
 	roast: "",
 	message: "Happy birthday Kirk!! You’ve been such a great friend for years and I’m grateful to have amazing friends like you! It’s been great hanging during these crazy times and having one of the homies around to hang and game with. Hope the mamba year is a good one and one where we keep being tight!",
-	background: "#99B6F2"
+	background: "#D982A2"
 }, {
 	name: "Mark",
 	roast: "You belong in gold just as much as my shoulder belongs in its socket.",
 	message: "You're a good friend dude. I enjoy being gay with you. Let's continue being gay with each other. Thanks for pushing me to be a better person. Gay boy. One day you'll beat me in chess for sure.",
-	background: "#D982A2"
+	background: "#4B61A6"
 }, {
 	name: "Helen",
 	roast: "I still sometimes think about the story you told me when you fake twisted your ankle...I'm very glad that I did not know you when you were in college.",
 	message: "Happy birthday big boy! Glad to be celebrating another of your birthday with you. Hope you feel very loved on this special day reading the roasts and heartfelt messages of your friends and family and can't wait to celebrate more important life events with you!",
-	background: "#4B61A6"
+	background: "#3FB2BF"
 }, {
 	name: "Helen, Max, Mark, Kenny",
 	roast: "Gift Contributors",
 	message: "Allan Chin, Joy Li, Jane Kuang, Sarah Yoon, Valeree Catangay, Anne Choi, Nic Liang, Alex Chang, Amy Cha, Marisa Liang, Jonathan Ting, David Lee, Jaye Sosa, Suhaas Garre, Shirley Pan, Clara Park, Julian Straker, Kevin Tran, Jennifer Zhang, Jeffrey Wang, Jared Shao, Vincent Tantra",
-	background: "#3FB2BF"
+	background: "#A7A289"
 }];
